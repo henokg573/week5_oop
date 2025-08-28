@@ -39,7 +39,7 @@ This assignment demonstrates the following concepts in Python:
 3. Run the program using:
 
 ```
-python assignment.py
+python oop.py
 ```
 
 4. Observe the outputs demonstrating class behavior, inheritance, and polymorphism.
